@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddPreMoney_Activity"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="예상 경비 수정하기"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textColor="#fff"
+        android:background="@color/teal_700"
+        >
+
+    </TextView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <Button
+            android:id="@+id/btn_editmoneydate"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:onClick="OnClickHandler"
+            android:text="날짜"
+            >
+        </Button>
+
+        <TextView
+            android:id="@+id/tx_editmoneydate"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            >
+
+        </TextView>
+
+        <EditText
+            android:id="@+id/et_editcnt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="여행 일차"
+
+            >
+
+        </EditText>
+
+
+
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/et_editcontent"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:hint="지출 내역"
+
+        >
+
+    </EditText>
+
+    <EditText
+        android:id="@+id/et_editprice"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:hint="지출 금액"
+
+        >
+
+    </EditText>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/btn_editmoney"
+        android:layout_marginTop="100dp"
+        android:text="수정"
+
+        />
+
+
+
+
+</LinearLayout>

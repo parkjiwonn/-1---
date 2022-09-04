@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/activity_add_diary.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/activity_add_end_money.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/activity_add_end_plan.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/activity_add_money.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/activity_add_pre_money.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/activity_add_pre_plan.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/activity_calender.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/activity_check_list.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/activity_choice1.xml" value="0.264" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/activity_choice2.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/activity_diary.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/activity_end_money.xml" value="0.4" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/activity_end_plan.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/activity_item.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/activity_login.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/activity_next_trip.xml" value="0.264" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/activity_pre_money.xml" value="0.264" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/activity_pre_plan.xml" value="0.264" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/activity_profile.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/activity_register.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/activity_resister.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/activity_rewirte_diary.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/activity_rewrite_money.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/activity_rewrite_plan.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/activity_start.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/card.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/dialog.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/diaryitem.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/item.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/item_detail.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/item_view.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/moneyitem.xml" value="0.4" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/planitem.xml" value="0.4" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/layout/trip_itemlist.xml" value="0.4" />
+        <entry key="..\:/Users/monsp/StudioProjects/MyApplication3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.18" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
